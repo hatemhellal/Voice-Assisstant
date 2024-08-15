@@ -28,11 +28,11 @@ This project is a voice agent designed to interact with users through voice comm
     ```
 
 3. **Set up environment variables**:
-    Create a `.env` file in the root directory and add your API keys and other configuration settings.
+    Create a `.env` file in the root directory and add your API keys and other configuration settings and code the env exportation.
     ```env
     gemini=your_api_key
     ```
-    or you can add it to the code
+    or you can add it to the code in the gemini api key
 
 ## Usage
 
