@@ -18,8 +18,8 @@ This project is a voice agent designed to interact with users through voice comm
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/hatemhellal/voice-assistant.git
-    cd voice-agent
+    git clone https://github.com/hatemhellal/voice-assisstant.git
+    
     ```
 
 2. **Install dependencies**:
@@ -42,7 +42,7 @@ This project is a voice agent designed to interact with users through voice comm
     ```
 
 2. **Interact with the agent**:
-    Speak into your microphone and the agent will respond based on your commands.
+    Speak into your microphone and the agent will respond based on your commands and will answer based on the context and the RAG file.
 
 
 
