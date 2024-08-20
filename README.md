@@ -1,5 +1,5 @@
 
-# Voice Agent
+# Voice Assistant
 
 ## Overview
 
@@ -18,7 +18,7 @@ This project is a voice agent designed to interact with users through voice comm
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/hatemhellal/voice-agent.git
+    git clone https://github.com/hatemhellal/voice-assistant.git
     cd voice-agent
     ```
 
